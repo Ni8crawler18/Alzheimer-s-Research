@@ -1,4 +1,4 @@
-# Alzheimer's Research ( Bioinformatics + ML)
+# Alzheimer's Research
 
 This repository provides a machine learning pipeline for Alzheimer’s Disease classification using blood-based transcriptomic data (e.g., GSE63060). 
 
